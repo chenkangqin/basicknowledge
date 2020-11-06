@@ -41,8 +41,8 @@ public class ParameterPass {
         a.setA(3);
     }
     /**
-     * 没有发生值改变
-     * no change
+     * 发生值改变
+     * change
      * @param a
      */
     public static void testObjectPassChange(Inner a){
